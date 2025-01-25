@@ -1,0 +1,1 @@
+:root{--bg-shade-1: #2d2d2d;--bg-shade-2: #3d3d3d;--text-primary: #e7e7e7;--text-secondary: #75a9dc}html,body{background-color:#000;color:var(--text-primary);height:100%;transition:background-color .2s linear;transition:color .2s linear}a{color:#40b3ff}a:visited{color:rgb(0,124.8442408377,207.35)}
